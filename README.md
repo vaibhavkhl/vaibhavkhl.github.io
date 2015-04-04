@@ -1,1 +1,1 @@
-repositpry for github pages
+repository for github pages
