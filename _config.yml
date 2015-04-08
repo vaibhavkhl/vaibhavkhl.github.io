@@ -3,17 +3,19 @@ permalink:        pretty
 relative_permalinks: true
 
 # Setup
-title:            vaibhavkhl
+title:            Vaibhav Kohli
 tagline:
 url:              http://vaibhavkhl.in
 paginate:         1
 baseurl:          /
 author:
   name:           Vaibhav Kohli
-  url:            https://twitter.com/mdo
+  url:
   email:          vaibhav.khl@gmail.com
 
 # Custom vars
 version:          1.0.0
 github:
   repo:           https://github.com/vaibhavkhl/vaibhavkhl.github.io
+
+aboutpageurl:       /about
