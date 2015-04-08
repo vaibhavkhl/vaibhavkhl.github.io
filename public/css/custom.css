@@ -1,3 +1,9 @@
 .about-link {
   float: right;
 }
+
+.about-image {
+  height: 200px;
+  width: 200px;
+  float: right;
+}
