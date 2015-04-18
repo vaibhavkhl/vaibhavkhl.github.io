@@ -3,7 +3,7 @@ layout: post
 title: Rails Api & AngularJS
 ---
 
-I love [Rails Api](https://github.com/rails-api/rails-api) with [AngularJS](https://angularjs.org/) and i think it is the best combination for rapid developement.
+I love using [Rails Api](https://github.com/rails-api/rails-api) with [AngularJS](https://angularjs.org/) and i think it is the best combination for rapid developement.
 
 We will learn how to integrate them in this post.
 
@@ -37,7 +37,7 @@ Run ```grunt build``` command inside client folder to build our static assests.
 This grunt task runs multiple task internally and prepares our code to be served and deployed.
 I suggest checking Gruntfile.js to see how this task works.
 
-This builds a dist folder. Copy the contents of this folder and paste in public folder inside server directory.
+This builds a dist folder. Copy the contents of this folder and paste it in public folder inside server directory.
 
 If you head over to [localhost:3000]() now you will see this-
 ![](assets/rails-angular-blog.png)
@@ -57,7 +57,7 @@ Deploy using this command
 
 ```git subtree push --prefix server heroku master```
 
-as we want push only server code instead of complete root directory.
+as we want to push only server folder instead of complete root directory.
 
 #### Its not complete yet. I will update it where we will create a api and consume it using angular.
 
