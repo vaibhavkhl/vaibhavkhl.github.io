@@ -2,7 +2,7 @@
 permalink:           pretty
 
 # Setup
-title:               Poole
+title:               Vaibhav Kohli
 tagline:             The Jekyll Butler
 url:                 http://getpoole.com
 paginate:            1
@@ -17,14 +17,14 @@ sass:
 
 # About/contact
 author:
-  name:              Mark Otto
-  url:               https://twitter.com/mdo
-  email:             markdotto@gmail.com
+  name:              Vaibhav Kohli
+  url:
+  email:             vaibhav.khl@gmail.com
 
 # Custom vars
 version:             2.0.0
 github:
-  repo:              https://github.com/poole/poole
+  repo:              https://github.com/vaibhavkhl/vaibhavkhl.github.io
 
 # Gems
 gems:
