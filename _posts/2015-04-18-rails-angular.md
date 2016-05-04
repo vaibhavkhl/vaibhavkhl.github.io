@@ -60,8 +60,3 @@ Deploy using this command
 as we want to push only server folder instead of complete root directory.
 
 #### Its not complete yet. I will update it where we will create a api and consume it using angular.
-
-
-
-
-
