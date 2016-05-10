@@ -7,7 +7,7 @@ I love using [Rails Api](https://github.com/rails-api/rails-api) with [AngularJS
 
 We will learn how to integrate them in this post.
 
-###Folder Structure
+### Folder Structure
 
 We will have separate directories for server(rails api) and client(angular) codebase.
 {% highlight sh %}
