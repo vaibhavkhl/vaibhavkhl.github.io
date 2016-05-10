@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Rails Api & AngularJS
+comments: True
 ---
 
 I love using [Rails Api](https://github.com/rails-api/rails-api) with [AngularJS](https://angularjs.org/) and i think it is the best combination for rapid development.
