@@ -3,8 +3,8 @@ permalink:           pretty
 
 # Setup
 title:               Vaibhav Kohli
-tagline:             
-url:                 http://getpoole.com
+tagline:
+url:                 vaibhavkhl.github.io
 paginate:            1
 baseurl:             ""
 
@@ -25,6 +25,10 @@ author:
 version:             2.0.0
 github:
   repo:              https://github.com/vaibhavkhl/vaibhavkhl.github.io
+
+# This is the list of pages to include in the header of the website.
+pages_list:
+  Archive: '/archive/'
 
 # Gems
 gems:
