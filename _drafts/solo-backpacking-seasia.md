@@ -1,28 +1,43 @@
-I had never traveled solo before and never traveled outside india.
-So when i decided to travel I had zero information.
-First step was to decide where to travel. I read few blogs and decided on south east asia
-for following reasons-
-1. cheap
-2. very popular backpacking trail. Easy to meet other travelers and local people.
+---
+layout: post
+title: Solo Backpacking across South East Asia for 2 months.
+comments: True
+---
 
-Resources for planning-
-Funky guides had really good and concise information and it helped me most to decide the places and routes.
-lonely planet
-wikitravel - i used this during the journey to find places to stay ann eat. you can also download
-wikivoyage app.
-hostelworld, hostelbooker and agoda mobile app.
-maps.me for offline access.
+I had never traveled solo before and never traveled outside India, so when i decided to travel I had no clue on how to do it.
+First step was to decide where to travel. After reading few blogs I decided on south east Asia because it is cheap, popular and easy backpacking trail.
 
-Visa
-Getting visa is easy but there is a lack of straight forward information over the internet regarding
-documents required.
-You only need a passport and visa fees.
-But airlines require more documents especially flight ticket out of country. I did not had a ticket out of laos
-and had to book it on the airport to board the flight.
+### Resources for planning
+
+I started looking for books and found [Funky guides](https://www.amazon.com/Backpackers-Guide-Southeast-Asia-2016-ebook/dp/B00OY2QHX4) for backpacking to SE Asia. I really liked this book and it helped me decide on the countries and routes.
+
+I used lonely planet during the journey to find more information about particular places.
+
+[Wikitravel](wikitravel.com) - I used this during the journey to find places to stay and eat. You can also download the wikivoyage mobile app.
+
+[Travelfish](travelfish.org) - This has articles about the places and are very well written.
+
+Hostelworld, Hostelbooker and agoda mobile apps for finding places to stay.
+
+Use maps.me and download the countries map to use it offline.
+
+### Visa
+Getting visa is a simple process for these countries but there is a lack of proper information over the Internet especially regarding the documents required.
+
+##### Thailand
+15 days visa on arrival for Indian passport holders in Bangkok airport. Officialy you only need valid passport, photograph and 1000 Baht. But airlines ask for a flight ticket out of country. And in Kolkata airport they also asked me for a hotel booking, which I had for only first night in Bangkok.
+
+##### Laos
+30 days visa on arrival for Indian passport holders at international airport and popular border crossings.
+I took a Lao airlines flight from Bangkok and they asked me for a flight ticket out of Laos, which I had to book in the airport to board the flight.
+
+##### Vietnam
+No visa on arrival. I got 30 days visa from Vietnamese embassy in Luang Prabang, Laos for 40$.
+
 I suggest book a flight ticket out of first country and cancel it later and travel overland.
 
-Money
-Definitely it is the most important thing. I read that carrying multiple cards and getting travel cards which
+### Money
+I read that carrying multiple cards and getting travel cards which
 has lower transaction fee is a good option. I start searching for the right card and after getting frustated
 because of no clear information and lack of time i did not get any card other than my hdfc debit card which i
 use in india. Bookmyforex was the best option which i found but still i was disappointed by their service.
@@ -32,7 +47,10 @@ US$ is accepted everywhere, can exchange it everywhere.
 I mostly used us$ for visa fees and then for places like where withdrawing was not a good option. In
 every withdrawl i got charged 200-300 rs twice.
 
-Journey-
+## Journey
+My plan was to spend 15 days in the south of Thailand then go to Laos and come back to Thailand and spend 15 days in the north. But I ended up going to Vietnam from Laos and skipped northen Thailand.
+
+### Thailand
 I started my journey in Bangkok. I had read few novels about Bangkok, watched Beach movie
 and so was very excited about it and expected it to be crazy & intense. This was the only city
 where i had booked my accomodation in advance. I stayed in Born free hostel near Khao San Road which
@@ -44,3 +62,5 @@ to khao san road.
 
 There are so many places in Bangkok to see. I wanted to see the red light areas but felt afraid to go there
 alone.
+
+From Bangkok I took a train to Suratthani to go Koh Phangan Island.
