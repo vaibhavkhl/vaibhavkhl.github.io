@@ -9,7 +9,7 @@ First step was to decide where to travel. After reading few blogs I decided on s
 
 ### Resources for planning
 
-I started looking for books and found [Funky guides](https://www.amazon.com/Backpackers-Guide-Southeast-Asia-2016-ebook/dp/B00OY2QHX4) for backpacking to SE Asia. I really liked this book and it helped me decide on the countries and routes.
+I started looking for books and found [Funky guides](https://www.amazon.com/Backpackers-Guide-Southeast-Asia-2016-ebook/dp/B00OY2QHX4) for backpacking to SE Asia. I liked this book and it helped me decide on the countries and routes.
 
 I used lonely planet during the journey to find more information about particular places.
 
@@ -64,3 +64,40 @@ There are so many places in Bangkok to see. I wanted to see the red light areas 
 alone.
 
 From Bangkok I took a train to Suratthani to go Koh Phangan Island.
+
+I stayed 6 days here and then went to Krabi to go to koh phi phi which is on the other side of the country.
+
+### Laos
+
+From Bangkok I took a flight to go to Vientiane, capital city of Laos.
+
+Vang Vieng
+
+Luang Prabang
+
+NOng Khiaw
+
+Muang Nouy
+
+Luang Namtha
+
+MUang Khua
+![](assets/muang-ngoi-laos.jpg)
+### Vietnam
+
+We took a bus from muang khua to dien bien phu. As soon as we reached here I knew I am going to love Vietnam.
+Had the best spring rolls ever.
+
+Sapa
+Sapa is a hill station very popular with local and chinese tourist. Rent a bike and see nearby places.
+
+Hanoi
+stayed here for 6 days. loved the food in old quarter. walking.
+
+CatBa Islands
+
+Caves place
+
+Dalat
+
+Saigon
