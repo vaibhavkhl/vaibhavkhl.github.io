@@ -13,13 +13,13 @@ I started looking for books and found [Funky guides](https://www.amazon.com/Back
 
 I used lonely planet during the journey to find more information about particular places.
 
-[Wikitravel](wikitravel.com) - I used this during the journey to find places to stay and eat. You can also download the wikivoyage mobile app.
+[Wikitravel](wikitravel.com) - I used this during the journey to find places to stay and eat on the go. You can also download the wikivoyage mobile app.
 
-[Travelfish](travelfish.org) - This has articles about the places and are very well written.
+[Travelfish](travelfish.org) - This has very well written articles.
 
 Hostelworld, Hostelbooker and agoda mobile apps for finding places to stay.
 
-Use maps.me and download the countries map to use it offline.
+maps.me app for offline maps.
 
 ### Visa
 Getting visa is a simple process for these countries but there is a lack of proper information over the Internet especially regarding the documents required.
@@ -28,13 +28,10 @@ Getting visa is a simple process for these countries but there is a lack of prop
 15 days visa on arrival for Indian passport holders in Bangkok airport. Officialy you only need valid passport, photograph and 1000 Baht. But airlines ask for a flight ticket out of country. And in Kolkata airport they also asked me for a hotel booking, which I had for only first night in Bangkok.
 
 ##### Laos
-30 days visa on arrival for Indian passport holders at international airport and popular border crossings.
-I took a Lao airlines flight from Bangkok and they asked me for a flight ticket out of Laos, which I had to book in the airport to board the flight.
+30 days visa on arrival for Indian passport holders at international airport and popular border crossings. I took a Lao airlines flight from Bangkok and they asked me for a flight ticket out of Laos, which I had to book in the airport to board the flight.
 
 ##### Vietnam
 No visa on arrival. I got 30 days visa from Vietnamese embassy in Luang Prabang, Laos for 40$.
-
-I suggest book a flight ticket out of first country and cancel it later and travel overland.
 
 ### Money
 I read that carrying multiple cards and getting travel cards which
@@ -74,27 +71,41 @@ From Bangkok I took a flight to go to Vientiane, capital city of Laos.
 Vang Vieng
 
 Luang Prabang
+This place is unique. Beautiful, calm and filled with temples. I stayed in a chilled out hostel and met so many different type of travelers. I mostly spent my time hanging out at the hostel talking to other people. Going out for a walk and dinner in the evening. There is a beautiful market where you can walk and have sandwiches and juice. Kuang si waterfalls is worth a visit.
+Here I met Aespen who was coming back from Nong Khiaw for his Vietnamese visa and was going back up. Me and Sam decided to join him to go to nong khiaw and muang nouy.
 
 NOng Khiaw
+We took a local bus in the morning and reached nong khiaw in the evening. This is a beautiful reverside village. This is the first and only time when I had Indian food in this trip.
 
 Muang Nouy
+This village can only be reached by boat. This is a very small place with probably population of only few hundred. We found very beautiful cottages with hammocks and riverside view for 30000 kip. We stayed here for 3 days and mostly spent time reading laying in hammocks and going for a swim sometimes.
+One day we went to see a cave and do a trek to nearby villages.
+![](assets/muang-ngoi-laos.jpg)
+
+From here I wanted to go up north end near Laos/China border. I went back to luang Prabang to catch a bus to odumxai and then to luang namtha.
 
 Luang Namtha
+Rented a bike  
 
-MUang Khua
-![](assets/muang-ngoi-laos.jpg)
+Muang Khua
+Simple and nice town.
+
 ### Vietnam
+We took a bus from muang khua to dien bien phu. On the same day we took a night bus to Sapa.  
 
-We took a bus from muang khua to dien bien phu. As soon as we reached here I knew I am going to love Vietnam.
+As soon as we reached here I knew I am going to love Vietnam.
+
 Had the best spring rolls ever.
 
 Sapa
 Sapa is a hill station very popular with local and chinese tourist. Rent a bike and see nearby places.
+Its similar to Manali in some ways.
 
 Hanoi
-stayed here for 6 days. loved the food in old quarter. walking.
+Hanoi is a big developed city with a area called Old Quarter where tourists stay. This area is filled with small street and awesome food. I stayed here for 6 days and mostly spent my time walking in the streets and trying food.
 
-CatBa Islands
+Halong Bay/CatBa Islands
+
 
 Caves place
 

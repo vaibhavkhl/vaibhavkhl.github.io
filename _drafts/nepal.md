@@ -1,6 +1,6 @@
 ---
 layout: post
-title: INdependently traveing in nepal
+title: Independently traveing in nepal
 comments: True
 ---
 
