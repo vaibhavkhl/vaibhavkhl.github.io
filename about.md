@@ -8,6 +8,6 @@ I have worked with a large consulting firm, sass startup [RecruiterBox](http://r
 
 I love reading, traveling and meeting new people.
 
-You can connect with me on [linkedin](https://www.linkedin.com/in/vaibhavkhl) or email me on vaibhav.khl@gmail.com.
+You can connect with me on [linkedin](https://www.linkedin.com/in/vaibhavkhl) or email me on vaibhav.khl @ gmail.com.
 
 Thanks for reading!
